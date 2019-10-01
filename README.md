@@ -37,7 +37,7 @@ export default App;
 ```
 iOS           |  Android
 :-------------------------:|:-------------------------:
-<img  width=700  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.57.01.png">  |  <img width=700 src="./img/screenshot-2019-10-01_08.54.21.329.png">
+<img  width=700  src="https://github.com/fonseca-leonardo/working-on-it/blob/master/img/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-10-01%20at%2008.57.01.png?raw=true">  |  <img width=700 src="https://github.com/fonseca-leonardo/working-on-it/blob/master/img/screenshot-2019-10-01_08.54.21.329.png?raw=true">
 
 Also, you can your own loading indicator. Just use your indicator as Working on It children:
 
@@ -55,7 +55,7 @@ const App = () => {
   );
 };
 ```
-<img  width=400  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.58.54.png">
+<img  width=400  src="https://github.com/fonseca-leonardo/working-on-it/blob/master/img/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-10-01%20at%2008.58.54.png?raw=true">
 
 | props  |  |
 | ------------- | ------------- |
