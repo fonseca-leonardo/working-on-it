@@ -35,4 +35,24 @@ const styles = StyleSheet.create({
 export default App;
 
 ```
-<img src="https://github.com/fonseca-leonardo/working-on-it/blob/master/img/screenshot-2019-10-01_08.54.21.329.png" >
+iOS           |  Android
+:-------------------------:|:-------------------------:
+<img  width=700  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.57.01.png">  |  <img width=700 src="./img/screenshot-2019-10-01_08.54.21.329.png">
+
+Also, you can your own loading indicator. Just use your indicator as Working on It children:
+
+```javascript
+const App = () => {
+  return (
+    <View style={styles.container}>
+      <Loading loadIndicatorSize="large" >
+        <Text>Loading...</Text>
+      </Loading>
+      <View >
+        <Text>Here a simple text for an example</Text>
+      </View>
+    </View>
+  );
+};
+```
+<img  width=700  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.58.54.png"> 
