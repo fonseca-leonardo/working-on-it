@@ -55,4 +55,10 @@ const App = () => {
   );
 };
 ```
-<img  width=400  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.58.54.png"> 
+<img  width=400  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.58.54.png">
+
+| props  |  |
+| ------------- | ------------- |
+| backgroundStyle  |Change View style that is behind loading indicator |
+|boxStyle  |Change the View that is holding loading indicator |
+| loadIndicatorSize  | It's loading size, can be: **small** or **large**  |
