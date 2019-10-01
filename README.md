@@ -55,4 +55,4 @@ const App = () => {
   );
 };
 ```
-<img  width=700  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.58.54.png"> 
+<img  width=400  src="./img/Simulator Screen Shot - iPhone X - 2019-10-01 at 08.58.54.png"> 
