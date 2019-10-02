@@ -1,5 +1,9 @@
 # Working on It
 
+![platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square&colorB=191A17)
+[![npm](https://img.shields.io/npm/v/working-on-it?style=flat-square)](https://www.npmjs.com/package/working-on-it) [![npm](https://img.shields.io/npm/dm/working-on-it.svg?style=flat-square&colorB=007ec6)](https://www.npmjs.com/package/working-on-it)
+
+
 It's a loading indicator designed to be use on react-native forms. When Working on It is rendered it will block all parent View inputs, use it after user submitting a form and block his inputs while waiting for an API response.
 
 ### Example
